@@ -56,6 +56,9 @@ Prod Phase -  <script crossorigin src="https://unpkg.com/react@18/umd/react.prod
            
 **(Q8) What is async and defer?**
            
-Ans:- The key difference between these two are like , Async is a boolean attribute which means execute code when it is downloaded and do not block DOM construction during downloading process. Defer is also a boolean attribute which means execute code after it's downloaded and browser finished DOM construction and rendering process.
+Ans:- The key difference between these two are like , async executes the script by halting the html rendering and post script execution, html rendering resumes while defer executes the script code after html rendering is completed. async doesn't follow a particular order of execution while importing the script (wherever dependencies for other scripts are being imported, async should be avoided) but defer maintains the order of the execution of the scripts and hence it is generally used in dependent scripts.
 
-Syntax for both are like :- <script src="demo_async.js" async></script> && <script src="demo_defer.js" defer></script>           
+Syntax for both are like :- <script src="demo_async.js" async></script> && <script src="demo_defer.js" defer></script>    
+           
+           
+![aynsc vs defer](https://user-images.githubusercontent.com/32253692/210324669-31fcf791-2e77-4a3d-a9d0-9c8af08b5c84.PNG)
