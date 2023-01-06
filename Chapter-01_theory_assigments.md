@@ -62,3 +62,6 @@ Syntax for both are like :- <script src="demo_async.js" async></script> && <scri
            
            
 ![aynsc vs defer](https://user-images.githubusercontent.com/32253692/210324669-31fcf791-2e77-4a3d-a9d0-9c8af08b5c84.PNG)
+
+           
+           
