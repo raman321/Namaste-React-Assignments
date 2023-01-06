@@ -48,10 +48,10 @@ Ans:- react.development.js is a larger not minimised version of React that is us
     
 React and ReactDOM CDN Syntax for both development and production phase are below
            
-Dev Phase -   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+Dev Phase-   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
               <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>    
      
-Prod Phase -  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+Prod Phase-  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
               <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
            
 **(Q8) What is async and defer?**
