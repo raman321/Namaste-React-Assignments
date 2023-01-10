@@ -10,7 +10,7 @@ You need to write the following commands on the terminal screen(in vscode) so th
   
 **Go to the project directory**
 
-  cd Namaste-React
+  cd Namaste-React-Assignments
   
 **Install dependencies**
 
