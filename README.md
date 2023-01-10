@@ -20,4 +20,4 @@ You need to write the following commands on the terminal screen(in vscode) so th
 
   npm run start
   
-And after this application should now be running on localhost. If you want to Fork repository and want to run locally, follow this guidelines Fork and Clone Github Repository
+And after this application should now be running on localhost. If you want to Fork repository and want to run locally, follow this guidelines https://docs.github.com/en/get-started/quickstart/fork-a-repo.
