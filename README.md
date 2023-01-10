@@ -1,8 +1,6 @@
 Welcome to Namaste React Learnings & Assignments 🚀❤️
 
-What it is ❓
-
-This repo maintains my way of React learning notes & coding assignments which I am learning from the famous Namaste JS Youtube Series by Akshay Saini. Continued...
+This repo maintains my way of React learning notes & coding assignments which I am learning from the famous Namaste JS Youtube Series by Akshay Saini. **Continued...**
 
 Clone this repository
 
