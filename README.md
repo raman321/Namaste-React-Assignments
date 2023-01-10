@@ -4,7 +4,7 @@ This repo maintains my way of React learning notes & coding assignments which I 
 
 Clone this repository
 
-You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+You need to write the following commands on the Cmd/terminal screen(in vscode) so that you can run this project locally.
 
   **git clone "https://github.com/raman321/Namaste-React-Assignments.git"**
   
