@@ -2,7 +2,7 @@ Welcome to Namaste React Learnings & Assignments 🚀❤️
 
 This repo maintains my way of React learning notes & coding assignments which I am learning from the famous Namaste JS Youtube Series by Akshay Saini. **Continued...**
 
-Clone this repository
+**Clone this repository**
 
 You need to write the following commands on the Cmd/terminal screen(in vscode) so that you can run this project locally.
 
