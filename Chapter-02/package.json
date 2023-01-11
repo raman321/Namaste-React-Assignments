@@ -1,0 +1,29 @@
+{
+  "name": "chapter-02",
+  "version": "1.0.0",
+  "description": "Introducing npm to our code",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raman321/Namaste-React-Assignments.git"
+  },
+  "author": "Raman Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raman321/Namaste-React-Assignments/issues"
+  },
+  "homepage": "https://github.com/raman321/Namaste-React-Assignments#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions "
+  ]
+}
