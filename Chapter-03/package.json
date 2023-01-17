@@ -1,0 +1,31 @@
+{
+  "name": "chapter-03",
+  "version": "1.0.0",
+  "description": "Laying the Foundation",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raman321/Namaste-React-Assignments.git"
+  },
+  "author": "Raman Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raman321/Namaste-React-Assignments/issues"
+  },
+  "homepage": "https://github.com/raman321/Namaste-React-Assignments#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
